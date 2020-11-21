@@ -1,5 +1,4 @@
-#inclu<stdio.h>
-
+#include<stdio.h>
 int main()
 {float a,b,c;
 a=2.3;
